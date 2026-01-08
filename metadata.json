@@ -1,0 +1,7 @@
+{
+  "name": "Simosh - Soap Marketplace",
+  "description": "A premium marketplace for natural handmade soaps with Admin and Guest roles, featuring AI-powered descriptions and a simulated MongoDB data layer.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
